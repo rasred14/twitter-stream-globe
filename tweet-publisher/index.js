@@ -9,10 +9,10 @@ nconf.file({ file: 'config.json' }).env();
 TweetPublisher = { };
 
 var twitter = TweetPublisher.twitter = new Twit({
-	consumer_key: nconf.get('8hBtQHHYCG32jvNDTc9VZpCVj'),
-	consumer_secret: nconf.get('8tE3W54IexnVFP8CqJi2M119sjy1z7ceMqhCvwOcYJeTIPe3tl'),
-	access_token: nconf.get('318514505-6q105MKOSQFxoWWRV8JyzLWQBehq0Wq4y8HQLXG4'),
-	access_token_secret: nconf.get('WOiyS4VoPRW7lb1R7iHk8Z3uE9Zciy3SjE2YA0PeZ4scC')
+	consumer_key: nconf.get(8hBtQHHYCG32jvNDTc9VZpCVj),
+	consumer_secret: nconf.get(8tE3W54IexnVFP8CqJi2M119sjy1z7ceMqhCvwOcYJeTIPe3tl),
+	access_token: nconf.get(318514505-6q105MKOSQFxoWWRV8JyzLWQBehq0Wq4y8HQLXG4),
+	access_token_secret: nconf.get(WOiyS4VoPRW7lb1R7iHk8Z3uE9Zciy3SjE2YA0PeZ4scC)
 });
 
 var pubnub = TweetPublisher.pubnub = Pubnub({
