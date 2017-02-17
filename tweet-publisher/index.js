@@ -16,8 +16,8 @@ var twitter = TweetPublisher.twitter = new Twit({
 });
 
 var pubnub = TweetPublisher.pubnub = Pubnub({
-	publish_key: nconf.get('pub-c-446f3359-f8f8-46c9-8fbc-c67e1e6d43e9'),
-	subscribe_key: nconf.get('sub-c-0c949b90-f546-11e6-bb94-0619f8945a4f')
+	publish_key: nconf.get(pub-c-446f3359-f8f8-46c9-8fbc-c67e1e6d43e9),
+	subscribe_key: nconf.get(sub-c-0c949b90-f546-11e6-bb94-0619f8945a4f)
 });
 
 var stream, cachedTweet, publishInterval;
