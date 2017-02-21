@@ -545,6 +545,8 @@ comfortably	2
 comforting	2
 comforts	2
 comic	1
+κόμικς  1
+//2015201 Achilleas Kapetanios CSCW
 commend	2
 commended	2
 commit	1
@@ -1462,6 +1464,8 @@ grants	1
 grateful	3
 gratification	2
 grave	-2
+τάφος  -2
+//2015201 Achilleas Kapetanios CSCW
 gray	-1
 grisly	-2
 gr8	3
@@ -1501,6 +1505,8 @@ guilty	-3
 gullibility	-2
 gullible	-2
 gun	-1
+όπλο  -1
+//2015201 Achilleas Kapetanios CSCW
 ha	2
 hacked	-1
 haha	3
@@ -1591,6 +1597,8 @@ homicide	-2
 homicides	-2
 honest	2
 honor	2
+τιμή  2
+//2015201 Achilleas Kapetanios CSCW
 honored	2
 honoring	2
 honour	2
@@ -1634,10 +1642,14 @@ hurting	-2
 hurts	-2
 hypocritical	-2
 hysteria	-3
+υστερία   -3
+//2015201 Achilleas Kapetanios CSCW
 hysterical	-3
 hysterics	-3
 icky	-3
 idiocy	-3
+ηλιθιότητα  -3
+//2015201 Achilleas Kapetanios CSCW
 idiot	-3
 idiotic	-3
 ignorance	-2
@@ -1792,6 +1804,8 @@ insignificant	-2
 insipid	-2
 insolvent	-2
 insomnia	-2
+αϋπνία   -2
+//2015201 Achilleas Kapetanios CSCW
 inspiration	2
 inspirational	2
 inspire	2
@@ -1802,6 +1816,9 @@ insufficiency	-2
 insufficient	-2
 insufficiently	-2
 insult	-2
+προσβολή  -2
+προσβάλω  -2
+//2015201 Achilleas Kapetanios CSCW
 insulted	-2
 insulting	-2
 insults	-2
@@ -1836,7 +1853,11 @@ inviting	1
 invulnerable	2
 irate	-3
 ironic	-1
+ειρωνικός  -1
+//2015201 Achilleas Kapetanios CSCW
 irony	-1
+ειρωνεία  -1
+//2015201 Achilleas Kapetanios CSCW
 irrational	-1
 irreparable	-2
 irreproducible	-2
@@ -1861,6 +1882,8 @@ jealous	-2
 jealousy	-2
 jeopardy	-2
 jerk	-3
+κόπανος  -3
+//2015201 Achilleas Kapetanios CSCW
 jesus	1
 jewel	1
 jewels	1
@@ -2047,11 +2070,15 @@ lurking	-1
 lurks	-1
 luxury	2
 macabre	-2
+μακάβριο  -2
+//2015201 Achilleas Kapetanios CSCW
 mad	-3
 maddening	-3
 made-up	-1
 madly	-3
 madness	-3
+τρέλα  -3
+//2015201 Achilleas Kapetanios CSCW
 magnificent	3
 maladaption	-2
 maldevelopment	-2
