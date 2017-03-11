@@ -2317,69 +2317,98 @@ perplexed	-2
 persecute	-2
 δίωξη -2
 διωγμός -2
+// 2015050 Ioannis Megalios CSCW
 persecuted	-2
 διωγμένος -2
 διωγμένη -2
 διωγμένο -2
+// 2015050 Ioannis Megalios CSCW
 persecutes	-2
 διώκει -2
+// 2015050 Ioannis Megalios CSCW
 persecuting	-2
 perturbed	-2
 αναστατωμένος -2
 ταραγμένος -2
+// 2015050 Ioannis Megalios CSCW
 pervert	-3
 καθίκι -3
 διαστροφικός -3
 διαστρεβλωμένος -3
+// 2015050 Ioannis Megalios CSCW
 pesky	-2
 ενοχλητικός -2
+// 2015050 Ioannis Megalios CSCW
 pessimism	-2
 απαισιοδοξία -2
+// 2015050 Ioannis Megalios CSCW
 pessimistic	-2
 απαισιόδοξος -2
+// 2015050 Ioannis Megalios CSCW
 petrified	-2
 τρομοκρατημένος -2
+// 2015050 Ioannis Megalios CSCW
 philanthropy	2
 φιλανθρωπία 2
+// 2015050 Ioannis Megalios CSCW
 phobic	-2
 φοβιτσιάρης -2
+// 2015050 Ioannis Megalios CSCW
 picturesque	2
 γραφικός 2
+// 2015050 Ioannis Megalios CSCW
 pileup	-1
 ατύχημα -1
 καραμπόλα -1
+// 2015050 Ioannis Megalios CSCW
 pillage	-2
 λεηλασία -2
+// 2015050 Ioannis Megalios CSCW
 pique	-2
 κεντρίζω -2
+// 2015050 Ioannis Megalios CSCW
 piqued	-2
 κεντρισμένος -2
+// 2015050 Ioannis Megalios CSCW
 piss	-4
 κάτουρο -4
 νευριάζω -4
+// 2015050 Ioannis Megalios CSCW
 pissed	-4
 κατουρημένος -4
 νευριασμένος -4
+// 2015050 Ioannis Megalios CSCW
 pissing	-3
 νευριάζω -3
+// 2015050 Ioannis Megalios CSCW
 piteous	-2
 αξιολύπητος -2
+// 2015050 Ioannis Megalios CSCW
 pitied	-1
 φουκαράς -1
+// 2015050 Ioannis Megalios CSCW
 pity	-2
 κρίμα -2
+// 2015050 Ioannis Megalios CSCW
 plague	-3
 μάστιγα -3
 επιδημία -3
+// 2015050 Ioannis Megalios CSCW
 plagued	-3
+αρρωστημένος -3
+// 2015050 Ioannis Megalios CSCW
 plagues	-3
 επιδημίες -3
+// 2015050 Ioannis Megalios CSCW
 plaguing	-3
 μαστίζει -3
+// 2015050 Ioannis Megalios CSCW
 playful	2
 παιχνιδιάρης 2
+// 2015050 Ioannis Megalios CSCW
 pleasant	3
 ευχάριστος 3
+// 2015050 Ioannis Megalios CSCW
 please	1
 pleased	3
 pleasurable	3
@@ -2638,17 +2667,23 @@ richly	2
 ridiculous	-3
 rig	-1
 νοθεία
+// 2015050 Ioannis Megalios CSCW
 rigged	-1
 νοθευμένος -1
+// 2015050 Ioannis Megalios CSCW
 right direction	3
 σωστή κατεύθυνση 3
+// 2015050 Ioannis Megalios CSCW
 righteousness	2
 νομιμότητα 2
 δικαιοσύνη 2
+// 2015050 Ioannis Megalios CSCW
 rightful	2
 νόμιμος 2
+// 2015050 Ioannis Megalios CSCW
 rightfully	2
 νόμιμα 2
+// 2015050 Ioannis Megalios CSCW
 rigorous	3
 rigorously	3
 riot	-2
