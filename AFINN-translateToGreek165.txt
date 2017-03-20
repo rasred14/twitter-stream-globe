@@ -319,6 +319,8 @@ benefits	2
 benefitted	2
 benefitting	2
 benevolent	3
+φιλανθρωπικός 3
+// Giwrgos Papakwnstantinoy P2013137 cscw
 bereave	-2
 bereaved	-2
 bereaves	-2
@@ -327,15 +329,21 @@ best	3
 best damn	4
 betray	-3
 betrayal	-3
+προδοσία -3 
+// Giwrgos Papakwnstantinoy P2013137 cscw
 betrayed	-3
 betraying	-3
 betrays	-3
 better	2
 bias	-1
+κλίση -1
+// Giwrgos Papakwnstantinoy P2013137 cscw
 biased	-2
 big	1
 bitch	-5
 bitches	-5
+σκύλες -5
+// Giwrgos Papakwnstantinoy P2013137 cscw
 bitter	-2
 bitterest	-2
 bitterly	-2
@@ -346,6 +354,7 @@ blackmailing	-3
 blackmails	-3
 blah	-2
 blame	-2
+κατηγορώ -2
 blamed	-2
 blames	-2
 blaming	-2
@@ -429,6 +438,7 @@ calmed	2
 calming	2
 calms	2
 can't stand	-3
+δεν αντέχω -3
 cancel	-1
 cancelled	-1
 cancelling	-1
@@ -458,6 +468,8 @@ celebrating	3
 celebration	3
 celebrations	3
 censor	-2
+λογοκρίνω -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 censored	-2
 censors	-2
 certain	1
@@ -553,6 +565,8 @@ comic	1
 κόμικς  1
 //2015201 Achilleas Kapetanios CSCW
 commend	2
+συγχαίρω 2
+// Giwrgos Papakwnstantinoy P2013137 cscw
 commended	2
 commit	1
 commitment	2
@@ -730,6 +744,8 @@ dazzling	3
 dead	-3
 deadening	-2
 deadlock	-2
+αδιέξοδο -2
+// Giwrgos Papakwnstantinoy P2013137 cscw
 deadly	-3
 deafening	-1
 dear	2
@@ -1071,6 +1087,8 @@ durable	2
 dying	-3
 dysfunction	-2
 eager	2
+ενθουσιώδης 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 earnest	2
 ease	2
 easy	1
@@ -1122,6 +1140,8 @@ enjoyed	2
 enjoying	2
 enjoys	2
 enlighten	2
+διαφωτίζω 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 enlightened	2
 enlightening	2
 enlightens	2
@@ -1267,6 +1287,8 @@ fascination	3
 fascist	-2
 fascists	-2
 fatal	-3
+θανάσιμος -3
+//Giwrgos Papakwnstantinoy P2013137 cscw
 fatalities	-3
 fatality	-3
 fatigue	-2
@@ -1297,6 +1319,8 @@ fearless	2
 fearlessness	2
 fearsome	-2
 fed up	-3
+αγανακτισμένος -3 
+//Giwrgos Papakwnstantinoy P2013137 cscw
 feeble	-2
 feeling	1
 felonies	-3
@@ -1747,6 +1771,8 @@ indifferent	-2
 indignant	-2
 indignation	-2
 indoctrinate	-2
+πλύση εγκεφάλού -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 indoctrinated	-2
 indoctrinates	-2
 indoctrinating	-2
@@ -1787,6 +1813,8 @@ infract	-2
 infracted	-2
 infracting	-2
 infracts	-2
+σε κομμάτια -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 infringement	-2
 infuriate	-2
 infuriated	-2
@@ -1918,6 +1946,8 @@ jumpy	-1
 justice	2
 justifiably	2
 justified	2
+δικαιολογημένος 2
+// Giwrgos Papakwnstantinoy P2013137 cscw
 keen	1
 kickback	-3
 kickbacks	-3
@@ -1961,6 +1991,8 @@ lame	-2
 //2015201 Achilleas Kapetanios CSCW
 landmark	2
 lapse	-1
+σφάλμα -1
+// Giwrgos Papakwnstantinoy P2013137 cscw
 lapsed	-1
 laugh	1
 γελάω   1
@@ -2114,6 +2146,8 @@ mature	2
 meaningful	2
 meaningless	-2
 medal	3
+μετάλλιο 3
+//Giwrgos Papakwnstantinoy P2013137 cscw
 mediocrity	-3
 meditative	1
 melancholy	-2
@@ -2263,6 +2297,8 @@ noblest	2
 noisy	-1
 non-approved	-2
 nonsense	-2
+ανοησίες -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 noob	-2
 nosey	-2
 not good	-2
@@ -2610,6 +2646,8 @@ praising	3
 pray	1
 praying	1
 prays	1
+προσεύχομαι 1
+//Giwrgos Papakwnstantinoy P2013137 cscw
 prblm	-2
 prblms	-2
 predatory	-2
@@ -2722,6 +2760,8 @@ rebels	-2
 recession	-2
 reckless	-2
 recognition	2
+αναγνώριση 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 recommend	2
 recommended	2
 recommends	2
@@ -2855,6 +2895,8 @@ robber	-2
 robed	-2
 robing	-2
 robs	-2
+λήστεψα -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 robust	2
 rofl	4
 roflcopter	4
@@ -3011,6 +3053,8 @@ slicker	2
 slickest	2
 slip	-1
 sloppy	-2
+τσαπατσούλικος -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 sluggish	-2
 slumping	-1
 slut	-5
@@ -3027,6 +3071,8 @@ smiled	2
 smiles	2
 smiling	2
 smog	-2
+αιθαλομίχλη -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 smuggle	-2
 smuggled	-2
 smuggling	-2
@@ -3040,6 +3086,8 @@ snub	-2
 snubbed	-2
 snubbing	-2
 snubs	-2
+αγνοώ -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 sobering	1
 solemn	-1
 solid	2
@@ -3125,6 +3173,8 @@ stimulates	1
 stimulating	2
 stingy	-2
 stink	-2
+βρωμάω -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 stinked	-2
 stinker	-2
 stinking	-2
@@ -3180,6 +3230,8 @@ succeeded	3
 succeeding	3
 succeeds	3
 success	2
+επιτυχία 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 successful	3
 successfully	3
 suck	-3
@@ -3196,6 +3248,8 @@ suffering	-2
 suffers	-2
 suicidal	-2
 suicide	-2
+αυτοκτονία -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 suicides	-2
 suing	-2
 suitable	2
@@ -3252,6 +3306,8 @@ sympathy	2
 taint	-2
 tainted	-2
 talent	2
+ταλέντο 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 tard	-2
 tarnish	-2
 tarnished	-2
@@ -3318,6 +3374,8 @@ touted	-2
 touting	-2
 touts	-2
 toxic	-3
+τοξικός -3
+//Giwrgos Papakwnstantinoy P2013137 cscw
 tragedies	-2
 tragedy	-2
 tragic	-2
