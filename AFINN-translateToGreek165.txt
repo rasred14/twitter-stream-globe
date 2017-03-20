@@ -2326,6 +2326,8 @@ obstructing	-2
 obstruction	-2
 obstructs	-2
 odd	-2
+παράξενο -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 offence	-2
 offences	-2
 offend	-2
@@ -2337,39 +2339,96 @@ offense	-2
 offenses	-2
 offensive	-2
 offensively	-2
+προσβολή -2
+προσβολές -2
+προσβάλω -2
+προσβεβλημένος -2
+προσβλητικό -2
+προσβλητικός -2
+προσβάλει -2
+προσβλητικά -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 offline	-1
 oks	2
+εντάξει 2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 ominous	3
+δυσοίωνος 3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 once-in-a-lifetime	3
+μοναδική 3
+μοναδικός 3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 oops	-2
 opportunities	2
 opportunity	2
+ευκαιρίες 2
+ευκαιρία 2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 oppressed	-2
 oppression	-2
 oppressions	-2
 oppressive	-2
+καταπιεσμένοι -2
+καταπίεση -2
+καταπιέσεις -2
+καταπιεστικός -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 optimism	2
 optimistic	2
+αισιοδοξία 2
+αισιόδοξος 2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 optionless	-2
 ostracize	-2
 ostracized	-2
 ostracizes	-2
+εξοστρακισμός -2
+εξοστρακίσει -2
+εξοστρακισμένος -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 ouch	-2
 outage	-2
 outages	-2
+διακοπή -2
+διακοπές 3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outbreak	-2
 outbreaks	-2
+έκρηξη -2
+εκρήξεις -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outcry	-2
+κατακραυγή -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outmaneuvered	-2
+διαφυγή -2
+διέφυγαν -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outnumbered	-2
 outrage	-3
 outraged	-3
 outrageous	-3
+έξω-φρενών -3
+έξω-φερνής -3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outreach	2
 outstanding	5
+εξαιρετική 5
+εξαιρετικός 5
+εξαιρετικό 5
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overjoyed	4
+υπερχαρούμενος 4
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overload	-1
+παραφορτώνω -1
+υπερφορτώνω -1
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overlooked	-1
+παραβλέπω -2
+παραβλέπεται -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overprotective	-2
 overran	-2
 overreact	-2
