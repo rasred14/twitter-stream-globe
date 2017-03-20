@@ -267,7 +267,7 @@ awards	3
 awesome	4
 awful	-3
 awkward	-2
-axe	-1
+axe	
 axed	-1
 backed	1
 backing	2
@@ -449,6 +449,8 @@ capability	1
 capable	1
 captivated	3
 care	2
+φροντίδα 2 
+//Angelos Kalocheris 2015072 cscw
 carefree	1
 careful	2
 carefully	2
@@ -1388,16 +1390,30 @@ fraudulence	-4
 fraudulent	-4
 freak	-2
 free	1
+ελεύθερος 1 
+//Angelos Kalocheris 2015072 cscw
 freedom	2
+ελευθερία 2
+//Angelos Kalocheris 2015072 cscw
 freedoms	2
 frenzy	-3
+φρενίτιδα -3
+//Angelos Kalocheris 2015072 cscw
 fresh	1
+φρέσκος 1
+//Angelos Kalocheris 2015072 cscw
 friend	1
 friendliness	2
 friendly	2
+φιλικός 2 
+//Angelos Kalocheris 2015072 cscw
 friendship	2
+φιλία 2 
+//Angelos Kalocheris 2015072 cscw
 fright	-2
 frightened	-2
+έντρομος -2
+//Angelos Kalocheris 2015072 cscw
 frightening	-3
 frikin	-2
 frisky	2
@@ -1409,42 +1425,86 @@ frustrates	-2
 frustrating	-2
 frustration	-2
 ftw	3
+για την νίκη 3
+//Angelos Kalocheris 2015072 cscw
 fuck	-4
+γαμώ -4
+//Angelos Kalocheris 2015072 cscw
 fucked	-4
+γαμημένος -4
+//Angelos Kalocheris 2015072 cscw
 fucker	-4
 fuckers	-4
 fuckface	-4
+αηδιαστικός -4
+//Angelos Kalocheris 2015072 cscw
 fuckhead	-4
+μαλάκας -4
+//Angelos Kalocheris 2015072 cscw
 fuckin	-4
 fucking	-4
 fucking amazing	4
 fucking beautiful	4
+πολύ όμορφος 4
+//Angelos Kalocheris 2015072 cscw
 fucking cute	4
+πολύ γλυκός 4
+//Angelos Kalocheris 2015072 cscw
 fucking fantastic	4
 fucking good	4
+πολύ καλός 4
+//Angelos Kalocheris 2015072 cscw
 fucking great	4
+πολύ τέλειος 4
+//Angelos Kalocheris 2015072 cscw
 fucking hot	2
+καύλα 2
+//Angelos Kalocheris 2015072 cscw
 fucking love	4
 fucking loves	4
 fucking perfect	4
+άψογος 4
+//Angelos Kalocheris 2015072 cscw
 fucktard	-4
 fud	-3
+αιδοιό -3
+//Angelos Kalocheris 2015072 cscw
 fuked	-4
+γαμημένος -4
+//Angelos Kalocheris 2015072 cscw
 fuking	-4
+σεξ -4
+//Angelos Kalocheris 2015072 cscw
 fulfill	2
+εκπληρώνω 2
+//Angelos Kalocheris 2015072 cscw
 fulfilled	2
 fulfillment	2
 fulfills	2
 fuming	-2
+ατμίζον -2
+//Angelos Kalocheris 2015072 cscw
 fun	4
+διασκέδαση 4
+//Angelos Kalocheris 2015072 cscw
 funeral	-1
+κηδεία -1
+//Angelos Kalocheris 2015072 cscw
 funerals	-1
+κηδείες -1
+//Angelos Kalocheris 2015072 cscw
 funky	2
 funnier	4
 funny	4
+διασκεδαστικός 4
+//Angelos Kalocheris 2015072 cscw
 furious	-3
+έξαλος -3
+//Angelos Kalocheris 2015072 cscw
 futile	-2
 gag	-2
+φίμωτρο -2
+//Angelos Kalocheris 2015072 cscw
 gagged	-2
 gain	2
 gained	2
