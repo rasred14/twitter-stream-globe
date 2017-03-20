@@ -2341,36 +2341,100 @@ overweight	-1
 overwrought	-3
 oxymoron	-1
 pain	-2
+πόνος -2 
+// 2015038 Athanasios Piplikatsis CSCW
 pained	-2
+πονεμένος -2
+πικραμένος -2
+// 2015038 Athanasios Piplikatsis CSCW
 painful	-2
+επώδυνο -2
+// 2015038 Athanasios Piplikatsis CSCW
 panic	-3
+πανικός -3
+// 2015038 Athanasios Piplikatsis CSCW
 panicked	-3
+πανικοβλήθηκα -3
+πανικοβλήθηκαν -3
+πανικοβλήθηκε -3
+// 2015038 Athanasios Piplikatsis CSCW
 panics	-3
+πανικοί -3
+// 2015038 Athanasios Piplikatsis CSCW
 paradise	3
+παράδεισος 3
+// 2015038 Athanasios Piplikatsis CSCW
 paradox	-1
+παράδοξο -1 
+// 2015038 Athanasios Piplikatsis CSCW
 pardon	2
+συγνώμη 2
+// 2015038 Athanasios Piplikatsis CSCW
 pardoned	2
+χάρη 2
+// 2015038 Athanasios Piplikatsis CSCW
 pardoning	2
+αμνήστευση 2
+// 2015038 Athanasios Piplikatsis CSCW
 pardons	2
+συγχωρήσεις 2 
+// 2015038 Athanasios Piplikatsis CSCW
 parley	-1
+διαπραγμάτευση -1
+// 2015038 Athanasios Piplikatsis CSCW
 passion	1
+πάθος 1
+// 2015038 Athanasios Piplikatsis CSCW
 passionate	2
+παθιασμένος 2
+// 2015038 Athanasios Piplikatsis CSCW
 passive	-1
+παθητικό -1
+παθητικός -1
+// 2015038 Athanasios Piplikatsis CSCW
 passively	-1
+παθητικά -1
+// 2015038 Athanasios Piplikatsis CSCW
 pathetic	-2
+αξιολύπητος -2
+// 2015038 Athanasios Piplikatsis CSCW
 pay	-1
+μισθός -1
+πληρωμή -1
+// 2015038 Athanasios Piplikatsis CSCW
 peace	2
+ειρήνη 2
+// 2015038 Athanasios Piplikatsis CSCW
 peaceful	2
+ειρηνικός 2
+// 2015038 Athanasios Piplikatsis CSCW
 peacefully	2
+ειρηνικά 2
+// 2015038 Athanasios Piplikatsis CSCW
 penalize	-2
+τιμωρεί -2
+// 2015038 Athanasios Piplikatsis CSCW
 penalized	-2
-penalizes	-2
+τιμωρούνται -2
+// 2015038 Athanasios Piplikatsis CSCW
 penalizing	-2
+τιμωρία -2
+// 2015038 Athanasios Piplikatsis CSCW
 penalty	-2
+ποινή -2
+// 2015038 Athanasios Piplikatsis CSCW
 pensive	-1
+σκεπτικός -1
+// 2015038 Athanasios Piplikatsis CSCW
 perfect	3
+τέλειο 3
+// 2015038 Athanasios Piplikatsis CSCW
 perfected	2
+τελειοποιημένο 2
+// 2015038 Athanasios Piplikatsis CSCW
 perfection	3
+τελειότητα 3
+// 2015038 Athanasios Piplikatsis CSCW
 perfectly	3
 perfects	2
 peril	-2
