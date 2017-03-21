@@ -24,7 +24,12 @@ abuse	-3
 abused	-3
 abuses	-3
 abusing	-3
+καταχρώμαι -3
+// 2015139 Giorgos Margaritis CSCW
 abusive	-3
+καταχρηστικός -3
+καταχρηστική -3
+// 2015139 Giorgos Margaritis CSCW
 accept	1
 acceptable	1
 acceptance	1
@@ -262,7 +267,7 @@ awards	3
 awesome	4
 awful	-3
 awkward	-2
-axe	-1
+axe	
 axed	-1
 backed	1
 backing	2
@@ -314,6 +319,8 @@ benefits	2
 benefitted	2
 benefitting	2
 benevolent	3
+φιλανθρωπικός 3
+// Giwrgos Papakwnstantinoy P2013137 cscw
 bereave	-2
 bereaved	-2
 bereaves	-2
@@ -322,15 +329,21 @@ best	3
 best damn	4
 betray	-3
 betrayal	-3
+προδοσία -3 
+// Giwrgos Papakwnstantinoy P2013137 cscw
 betrayed	-3
 betraying	-3
 betrays	-3
 better	2
 bias	-1
+κλίση -1
+// Giwrgos Papakwnstantinoy P2013137 cscw
 biased	-2
 big	1
 bitch	-5
 bitches	-5
+σκύλες -5
+// Giwrgos Papakwnstantinoy P2013137 cscw
 bitter	-2
 bitterest	-2
 bitterly	-2
@@ -341,6 +354,7 @@ blackmailing	-3
 blackmails	-3
 blah	-2
 blame	-2
+κατηγορώ -2
 blamed	-2
 blames	-2
 blaming	-2
@@ -424,6 +438,7 @@ calmed	2
 calming	2
 calms	2
 can't stand	-3
+δεν αντέχω -3
 cancel	-1
 cancelled	-1
 cancelling	-1
@@ -434,6 +449,8 @@ capability	1
 capable	1
 captivated	3
 care	2
+φροντίδα 2 
+//Angelos Kalocheris 2015072 cscw
 carefree	1
 careful	2
 carefully	2
@@ -453,6 +470,8 @@ celebrating	3
 celebration	3
 celebrations	3
 censor	-2
+λογοκρίνω -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 censored	-2
 censors	-2
 certain	1
@@ -545,7 +564,11 @@ comfortably	2
 comforting	2
 comforts	2
 comic	1
+κόμικς  1
+//2015201 Achilleas Kapetanios CSCW
 commend	2
+συγχαίρω 2
+// Giwrgos Papakwnstantinoy P2013137 cscw
 commended	2
 commit	1
 commitment	2
@@ -723,6 +746,8 @@ dazzling	3
 dead	-3
 deadening	-2
 deadlock	-2
+αδιέξοδο -2
+// Giwrgos Papakwnstantinoy P2013137 cscw
 deadly	-3
 deafening	-1
 dear	2
@@ -838,6 +863,8 @@ desperate	-3
 desperately	-3
 despondent	-3
 destroy	-3
+καταστρέφω -3
+// 2015139 Giorgos Margaritis CSCW
 destroyed	-3
 destroying	-3
 destroys	-3
@@ -1062,6 +1089,8 @@ durable	2
 dying	-3
 dysfunction	-2
 eager	2
+ενθουσιώδης 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 earnest	2
 ease	2
 easy	1
@@ -1113,6 +1142,8 @@ enjoyed	2
 enjoying	2
 enjoys	2
 enlighten	2
+διαφωτίζω 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 enlightened	2
 enlightening	2
 enlightens	2
@@ -1258,6 +1289,8 @@ fascination	3
 fascist	-2
 fascists	-2
 fatal	-3
+θανάσιμος -3
+//Giwrgos Papakwnstantinoy P2013137 cscw
 fatalities	-3
 fatality	-3
 fatigue	-2
@@ -1288,6 +1321,8 @@ fearless	2
 fearlessness	2
 fearsome	-2
 fed up	-3
+αγανακτισμένος -3 
+//Giwrgos Papakwnstantinoy P2013137 cscw
 feeble	-2
 feeling	1
 felonies	-3
@@ -1355,16 +1390,30 @@ fraudulence	-4
 fraudulent	-4
 freak	-2
 free	1
+ελεύθερος 1 
+//Angelos Kalocheris 2015072 cscw
 freedom	2
+ελευθερία 2
+//Angelos Kalocheris 2015072 cscw
 freedoms	2
 frenzy	-3
+φρενίτιδα -3
+//Angelos Kalocheris 2015072 cscw
 fresh	1
+φρέσκος 1
+//Angelos Kalocheris 2015072 cscw
 friend	1
 friendliness	2
 friendly	2
+φιλικός 2 
+//Angelos Kalocheris 2015072 cscw
 friendship	2
+φιλία 2 
+//Angelos Kalocheris 2015072 cscw
 fright	-2
 frightened	-2
+έντρομος -2
+//Angelos Kalocheris 2015072 cscw
 frightening	-3
 frikin	-2
 frisky	2
@@ -1376,42 +1425,86 @@ frustrates	-2
 frustrating	-2
 frustration	-2
 ftw	3
+για την νίκη 3
+//Angelos Kalocheris 2015072 cscw
 fuck	-4
+γαμώ -4
+//Angelos Kalocheris 2015072 cscw
 fucked	-4
+γαμημένος -4
+//Angelos Kalocheris 2015072 cscw
 fucker	-4
 fuckers	-4
 fuckface	-4
+αηδιαστικός -4
+//Angelos Kalocheris 2015072 cscw
 fuckhead	-4
+μαλάκας -4
+//Angelos Kalocheris 2015072 cscw
 fuckin	-4
 fucking	-4
 fucking amazing	4
 fucking beautiful	4
+πολύ όμορφος 4
+//Angelos Kalocheris 2015072 cscw
 fucking cute	4
+πολύ γλυκός 4
+//Angelos Kalocheris 2015072 cscw
 fucking fantastic	4
 fucking good	4
+πολύ καλός 4
+//Angelos Kalocheris 2015072 cscw
 fucking great	4
+πολύ τέλειος 4
+//Angelos Kalocheris 2015072 cscw
 fucking hot	2
+καύλα 2
+//Angelos Kalocheris 2015072 cscw
 fucking love	4
 fucking loves	4
 fucking perfect	4
+άψογος 4
+//Angelos Kalocheris 2015072 cscw
 fucktard	-4
 fud	-3
+αιδοιό -3
+//Angelos Kalocheris 2015072 cscw
 fuked	-4
+γαμημένος -4
+//Angelos Kalocheris 2015072 cscw
 fuking	-4
+σεξ -4
+//Angelos Kalocheris 2015072 cscw
 fulfill	2
+εκπληρώνω 2
+//Angelos Kalocheris 2015072 cscw
 fulfilled	2
 fulfillment	2
 fulfills	2
 fuming	-2
+ατμίζον -2
+//Angelos Kalocheris 2015072 cscw
 fun	4
+διασκέδαση 4
+//Angelos Kalocheris 2015072 cscw
 funeral	-1
+κηδεία -1
+//Angelos Kalocheris 2015072 cscw
 funerals	-1
+κηδείες -1
+//Angelos Kalocheris 2015072 cscw
 funky	2
 funnier	4
 funny	4
+διασκεδαστικός 4
+//Angelos Kalocheris 2015072 cscw
 furious	-3
+έξαλος -3
+//Angelos Kalocheris 2015072 cscw
 futile	-2
 gag	-2
+φίμωτρο -2
+//Angelos Kalocheris 2015072 cscw
 gagged	-2
 gain	2
 gained	2
@@ -1462,6 +1555,8 @@ grants	1
 grateful	3
 gratification	2
 grave	-2
+τάφος  -2
+//2015201 Achilleas Kapetanios CSCW
 gray	-1
 grisly	-2
 gr8	3
@@ -1501,6 +1596,8 @@ guilty	-3
 gullibility	-2
 gullible	-2
 gun	-1
+όπλο  -1
+//2015201 Achilleas Kapetanios CSCW
 ha	2
 hacked	-1
 haha	3
@@ -1591,6 +1688,8 @@ homicide	-2
 homicides	-2
 honest	2
 honor	2
+τιμή  2
+//2015201 Achilleas Kapetanios CSCW
 honored	2
 honoring	2
 honour	2
@@ -1634,10 +1733,14 @@ hurting	-2
 hurts	-2
 hypocritical	-2
 hysteria	-3
+υστερία   -3
+//2015201 Achilleas Kapetanios CSCW
 hysterical	-3
 hysterics	-3
 icky	-3
 idiocy	-3
+ηλιθιότητα  -3
+//2015201 Achilleas Kapetanios CSCW
 idiot	-3
 idiotic	-3
 ignorance	-2
@@ -1683,6 +1786,9 @@ imposter	-2
 impotent	-2
 impress	3
 impressed	3
+εντυπωσιασμένος 3
+εντυπωσιαμένη 3
+// 2015139 Giorgos Margaritis CSCW
 impresses	3
 impressive	3
 imprisoned	-2
@@ -1725,6 +1831,8 @@ indifferent	-2
 indignant	-2
 indignation	-2
 indoctrinate	-2
+πλύση εγκεφάλού -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 indoctrinated	-2
 indoctrinates	-2
 indoctrinating	-2
@@ -1765,6 +1873,8 @@ infract	-2
 infracted	-2
 infracting	-2
 infracts	-2
+σε κομμάτια -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 infringement	-2
 infuriate	-2
 infuriated	-2
@@ -1792,6 +1902,8 @@ insignificant	-2
 insipid	-2
 insolvent	-2
 insomnia	-2
+αϋπνία   -2
+//2015201 Achilleas Kapetanios CSCW
 inspiration	2
 inspirational	2
 inspire	2
@@ -1802,6 +1914,9 @@ insufficiency	-2
 insufficient	-2
 insufficiently	-2
 insult	-2
+προσβολή  -2
+προσβάλω  -2
+//2015201 Achilleas Kapetanios CSCW
 insulted	-2
 insulting	-2
 insults	-2
@@ -1836,7 +1951,11 @@ inviting	1
 invulnerable	2
 irate	-3
 ironic	-1
+ειρωνικός  -1
+//2015201 Achilleas Kapetanios CSCW
 irony	-1
+ειρωνεία  -1
+//2015201 Achilleas Kapetanios CSCW
 irrational	-1
 irreparable	-2
 irreproducible	-2
@@ -1861,6 +1980,8 @@ jealous	-2
 jealousy	-2
 jeopardy	-2
 jerk	-3
+κόπανος  -3
+//2015201 Achilleas Kapetanios CSCW
 jesus	1
 jewel	1
 jewels	1
@@ -1871,7 +1992,12 @@ jokes	2
 jolly	2
 jovial	2
 joy	3
+χαρά 3
+// 2015139 Giorgos Margaritis CSCW
 joyful	3
+χαρούμενος 3
+χαρούμενη 3
+// 2015139 Giorgos Margaritis CSCW
 joyfully	3
 joyless	-2
 joyous	3
@@ -1880,53 +2006,146 @@ jumpy	-1
 justice	2
 justifiably	2
 justified	2
+δικαιολογημένος 2
+// Giwrgos Papakwnstantinoy P2013137 cscw
 keen	1
 kickback	-3
+ανάκρουση   -3
+αμοιβή για κάποια υπηρεσία  -3
+αμοιβή για υπηρεσία -3
+δωροδοκία   -3
+δωροδοκία για υπηρεσία  -3
+δωροδοκία για υπηρεσία  -3
+προμήθεια   -3
+// 2014170 Alexandros Kalavitis
 kickbacks	-3
+μίζες   -3
+// 2014170 Alexandros Kalavitis
 kidnap	-2
+απαγάγω   -2
+απαγωγή   -2
+//2015201 Achilleas Kapetanios CSCW
 kidnapped	-2
+απαχθείς    -2
+// 2014170 Alexandros Kalavitis
 kidnapping	-2
+απαγωγή -2
+// 2014170 Alexandros Kalavitis
 kidnappings	-2
+απαγωγές    -2
+// 2014170 Alexandros Kalavitis
 kidnaps	-2
+απαγάγει    -2
+// 2014170 Alexandros Kalavitis
 kill	-3
+σκοτώνω   -3
+θάνατος   -3
+//2015201 Achilleas Kapetanios CSCW
 killed	-3
+σκότωσε -3
+// 2014170 Alexandros Kalavitis
 killing	-3
+φόνος   -3
+// 2014170 Alexandros Kalavitis
 kills	-3
+σκοτώνει    -3
+// 2014170 Alexandros Kalavitis
 kind	2
+ευγενικό   2
 kind of	0
+περίπου 0
+// 2014170 Alexandros Kalavitis
 kinder	2
+ευγενικότερος   2
+ποιό ευγενικός  2
+// 2014170 Alexandros Kalavitis
 kindness	2
+ευγένεια   2
+//2015201 Achilleas Kapetanios CSCW
 kiss	2
+φιλί   2
+//2015201 Achilleas Kapetanios CSCW
 kudos	3
+δόξα    3
+φήμη    3
+// 2014170 Alexandros Kalavitis
 lack	-2
+έλλειψη   -2
+//2015201 Achilleas Kapetanios CSCW
 lackadaisical	-2
+αδιάφορος   -2
+άτονος  -2
+βαρυεστημένος   -2
+ψευδοαισθηματικός   -2
+// 2014170 Alexandros Kalavitis
 lag	-1
+καθυστέρηση -1
+επιπορεία   -1
+κατάδικος   -1
+χασομερώ    -1
+βραδύνω -1
+χρονοτριβώ  -1
+καθυστερώ   -1
+// 2014170 Alexandros Kalavitis
 lagged	-2
+με χρονική υστέρηση -2
+// 2014170 Alexandros Kalavitis
 lagging	-2
+μόνωση  -2
+βραδύτης    -2
+βραδύνων    -2
+// 2014170 Alexandros Kalavitis
 lags	-2
+υστερήσεων  -2
+// 2014170 Alexandros Kalavitis
 lame	-2
+ξενέρωτο   -2
+//2015201 Achilleas Kapetanios CSCW
 landmark	2
+ορόσημο 2
+διακριτικό σημείο   2
+αξιοθέατο   2
+// 2014170 Alexandros Kalavitis
 lapse	-1
-lapsed	-1
-laugh	1
+σφάλμα -1
+// Giwrgos Papakwnstantinoy P2013137 cscw
+γελάω   1
+γέλιο   1
+//2015201 Achilleas Kapetanios CSCW
 laughed	1
+γελασα  1
+// 2014170 Alexandros Kalavitis
 laughing	1
+γελώ    1
+γελώς   1
+γελών   1
+γελάω   1
+// 2014170 Alexandros Kalavitis
 laughs	1
 laughting	1
 launched	1
 lawl	3
 lawsuit	-2
+μήνυση   -2
+//2015201 Achilleas Kapetanios CSCW
 lawsuits	-2
+μηνύσεις   -2
+//2015201 Achilleas Kapetanios CSCW
 lazy	-1
 leadership	1
 leading	2
 leak	-1
 leaked	-1
 leave	-1
+εγκαταλείπω  -1
+αφήνω  -1
+//2015201 Achilleas Kapetanios CSCW
 legal	1
 legally	1
 lenient	1
 lethal	-2
+θανατηφόρο  -2
+//2015201 Achilleas Kapetanios CSCW
 lethality	-2
 lethargic	-2
 lethargy	-2
@@ -1947,6 +2166,8 @@ liking	2
 limitation	-1
 limited	-1
 limits	-1
+όρια  -1
+//2015201 Achilleas Kapetanios CSCW
 litigation	-1
 litigious	-2
 lively	2
@@ -1982,11 +2203,15 @@ looses	-3
 loser	-3
 losing	-3
 loss	-3
+απώλεια  -3
+//2015201 Achilleas Kapetanios CSCW
 losses	-3
 lost	-3
 lousy	-2
 lovable	3
 love	3
+αγάπη  3
+//2015201 Achilleas Kapetanios CSCW
 loved	3
 lovelies	3
 lovely	3
@@ -1997,23 +2222,31 @@ lowest	-1
 loyal	3
 loyalty	3
 luck	3
+τύχη  3
+//2015201 Achilleas Kapetanios CSCW
 luckily	3
 lucky	3
 lucrative	3
 ludicrous	-3
 lugubrious	-2
 lunatic	-3
+παράφρονας  -3
+//2015201 Achilleas Kapetanios CSCW
 lunatics	-3
 lurk	-1
 lurking	-1
 lurks	-1
 luxury	2
 macabre	-2
+μακάβριο  -2
+//2015201 Achilleas Kapetanios CSCW
 mad	-3
 maddening	-3
 made-up	-1
 madly	-3
 madness	-3
+τρέλα  -3
+//2015201 Achilleas Kapetanios CSCW
 magnificent	3
 maladaption	-2
 maldevelopment	-2
@@ -2034,6 +2267,8 @@ mature	2
 meaningful	2
 meaningless	-2
 medal	3
+μετάλλιο 3
+//Giwrgos Papakwnstantinoy P2013137 cscw
 mediocrity	-3
 meditative	1
 melancholy	-2
@@ -2183,6 +2418,8 @@ noblest	2
 noisy	-1
 non-approved	-2
 nonsense	-2
+ανοησίες -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 noob	-2
 nosey	-2
 not good	-2
@@ -2210,6 +2447,8 @@ obstructing	-2
 obstruction	-2
 obstructs	-2
 odd	-2
+παράξενο -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 offence	-2
 offences	-2
 offend	-2
@@ -2221,39 +2460,96 @@ offense	-2
 offenses	-2
 offensive	-2
 offensively	-2
+προσβολή -2
+προσβολές -2
+προσβάλω -2
+προσβεβλημένος -2
+προσβλητικό -2
+προσβλητικός -2
+προσβάλει -2
+προσβλητικά -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 offline	-1
 oks	2
+εντάξει 2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 ominous	3
+δυσοίωνος 3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 once-in-a-lifetime	3
+μοναδική 3
+μοναδικός 3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 oops	-2
 opportunities	2
 opportunity	2
+ευκαιρίες 2
+ευκαιρία 2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 oppressed	-2
 oppression	-2
 oppressions	-2
 oppressive	-2
+καταπιεσμένοι -2
+καταπίεση -2
+καταπιέσεις -2
+καταπιεστικός -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 optimism	2
 optimistic	2
+αισιοδοξία 2
+αισιόδοξος 2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 optionless	-2
 ostracize	-2
 ostracized	-2
 ostracizes	-2
+εξοστρακισμός -2
+εξοστρακίσει -2
+εξοστρακισμένος -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 ouch	-2
 outage	-2
 outages	-2
+διακοπή -2
+διακοπές 3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outbreak	-2
 outbreaks	-2
+έκρηξη -2
+εκρήξεις -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outcry	-2
+κατακραυγή -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outmaneuvered	-2
+διαφυγή -2
+διέφυγαν -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outnumbered	-2
 outrage	-3
 outraged	-3
 outrageous	-3
+έξω-φρενών -3
+έξω-φερνής -3
+// 2014116 Konstantinos Xipolitopoulos CSSW
 outreach	2
 outstanding	5
+εξαιρετική 5
+εξαιρετικός 5
+εξαιρετικό 5
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overjoyed	4
+υπερχαρούμενος 4
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overload	-1
+παραφορτώνω -1
+υπερφορτώνω -1
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overlooked	-1
+παραβλέπω -2
+παραβλέπεται -2
+// 2014116 Konstantinos Xipolitopoulos CSSW
 overprotective	-2
 overran	-2
 overreact	-2
@@ -2276,36 +2572,100 @@ overweight	-1
 overwrought	-3
 oxymoron	-1
 pain	-2
+πόνος -2 
+// 2015038 Athanasios Piplikatsis CSCW
 pained	-2
+πονεμένος -2
+πικραμένος -2
+// 2015038 Athanasios Piplikatsis CSCW
 painful	-2
+επώδυνο -2
+// 2015038 Athanasios Piplikatsis CSCW
 panic	-3
+πανικός -3
+// 2015038 Athanasios Piplikatsis CSCW
 panicked	-3
+πανικοβλήθηκα -3
+πανικοβλήθηκαν -3
+πανικοβλήθηκε -3
+// 2015038 Athanasios Piplikatsis CSCW
 panics	-3
+πανικοί -3
+// 2015038 Athanasios Piplikatsis CSCW
 paradise	3
+παράδεισος 3
+// 2015038 Athanasios Piplikatsis CSCW
 paradox	-1
+παράδοξο -1 
+// 2015038 Athanasios Piplikatsis CSCW
 pardon	2
+συγνώμη 2
+// 2015038 Athanasios Piplikatsis CSCW
 pardoned	2
+χάρη 2
+// 2015038 Athanasios Piplikatsis CSCW
 pardoning	2
+αμνήστευση 2
+// 2015038 Athanasios Piplikatsis CSCW
 pardons	2
+συγχωρήσεις 2 
+// 2015038 Athanasios Piplikatsis CSCW
 parley	-1
+διαπραγμάτευση -1
+// 2015038 Athanasios Piplikatsis CSCW
 passion	1
+πάθος 1
+// 2015038 Athanasios Piplikatsis CSCW
 passionate	2
+παθιασμένος 2
+// 2015038 Athanasios Piplikatsis CSCW
 passive	-1
+παθητικό -1
+παθητικός -1
+// 2015038 Athanasios Piplikatsis CSCW
 passively	-1
+παθητικά -1
+// 2015038 Athanasios Piplikatsis CSCW
 pathetic	-2
+αξιολύπητος -2
+// 2015038 Athanasios Piplikatsis CSCW
 pay	-1
+μισθός -1
+πληρωμή -1
+// 2015038 Athanasios Piplikatsis CSCW
 peace	2
+ειρήνη 2
+// 2015038 Athanasios Piplikatsis CSCW
 peaceful	2
+ειρηνικός 2
+// 2015038 Athanasios Piplikatsis CSCW
 peacefully	2
+ειρηνικά 2
+// 2015038 Athanasios Piplikatsis CSCW
 penalize	-2
+τιμωρεί -2
+// 2015038 Athanasios Piplikatsis CSCW
 penalized	-2
-penalizes	-2
+τιμωρούνται -2
+// 2015038 Athanasios Piplikatsis CSCW
 penalizing	-2
+τιμωρία -2
+// 2015038 Athanasios Piplikatsis CSCW
 penalty	-2
+ποινή -2
+// 2015038 Athanasios Piplikatsis CSCW
 pensive	-1
+σκεπτικός -1
+// 2015038 Athanasios Piplikatsis CSCW
 perfect	3
+τέλειο 3
+// 2015038 Athanasios Piplikatsis CSCW
 perfected	2
+τελειοποιημένο 2
+// 2015038 Athanasios Piplikatsis CSCW
 perfection	3
+τελειότητα 3
+// 2015038 Athanasios Piplikatsis CSCW
 perfectly	3
 perfects	2
 peril	-2
@@ -2315,38 +2675,110 @@ perpetrator	-2
 perpetrators	-2
 perplexed	-2
 persecute	-2
+δίωξη -2
+διωγμός -2
+// 2015050 Ioannis Megalios CSCW
 persecuted	-2
+διωγμένος -2
+διωγμένη -2
+διωγμένο -2
+// 2015050 Ioannis Megalios CSCW
 persecutes	-2
+διώκει -2
+// 2015050 Ioannis Megalios CSCW
 persecuting	-2
 perturbed	-2
+αναστατωμένος -2
+ταραγμένος -2
+// 2015050 Ioannis Megalios CSCW
 pervert	-3
+καθίκι -3
+διαστροφικός -3
+διαστρεβλωμένος -3
+// 2015050 Ioannis Megalios CSCW
 pesky	-2
+ενοχλητικός -2
+// 2015050 Ioannis Megalios CSCW
 pessimism	-2
+απαισιοδοξία -2
+// 2015050 Ioannis Megalios CSCW
 pessimistic	-2
+απαισιόδοξος -2
+// 2015050 Ioannis Megalios CSCW
 petrified	-2
+τρομοκρατημένος -2
+// 2015050 Ioannis Megalios CSCW
 philanthropy	2
+φιλανθρωπία 2
+// 2015050 Ioannis Megalios CSCW
 phobic	-2
+φοβιτσιάρης -2
+// 2015050 Ioannis Megalios CSCW
 picturesque	2
+γραφικός 2
+// 2015050 Ioannis Megalios CSCW
 pileup	-1
+ατύχημα -1
+καραμπόλα -1
+// 2015050 Ioannis Megalios CSCW
 pillage	-2
+λεηλασία -2
+// 2015050 Ioannis Megalios CSCW
 pique	-2
+κεντρίζω -2
+// 2015050 Ioannis Megalios CSCW
 piqued	-2
+κεντρισμένος -2
+// 2015050 Ioannis Megalios CSCW
 piss	-4
+κάτουρο -4
+νευριάζω -4
+// 2015050 Ioannis Megalios CSCW
 pissed	-4
+κατουρημένος -4
+νευριασμένος -4
+// 2015050 Ioannis Megalios CSCW
 pissing	-3
+νευριάζω -3
+// 2015050 Ioannis Megalios CSCW
 piteous	-2
+αξιολύπητος -2
+// 2015050 Ioannis Megalios CSCW
 pitied	-1
+φουκαράς -1
+// 2015050 Ioannis Megalios CSCW
 pity	-2
+κρίμα -2
+// 2015050 Ioannis Megalios CSCW
 plague	-3
+μάστιγα -3
+επιδημία -3
+// 2015050 Ioannis Megalios CSCW
 plagued	-3
+αρρωστημένος -3
+// 2015050 Ioannis Megalios CSCW
 plagues	-3
+επιδημίες -3
+// 2015050 Ioannis Megalios CSCW
 plaguing	-3
+μαστίζει -3
+// 2015050 Ioannis Megalios CSCW
 playful	2
+παιχνιδιάρης 2
+// 2015050 Ioannis Megalios CSCW
 pleasant	3
+ευχάριστος 3
+// 2015050 Ioannis Megalios CSCW
 please	1
 pleased	3
 pleasurable	3
+απολαυστικός 3
+απολαυστική 3
+απολαυστικό 3
+// 2015139 Giorgos Margaritis CSCW
 pleasure	3
+ευχαρίστηση 3
+// 2015139 Giorgos Margaritis CSCW
 plodding	-2
 poignant	2
 pointless	-2
@@ -2369,7 +2801,11 @@ poorer	-2
 poorest	-2
 poorly	-2
 popular	3
+δημοφιλής 3
+// 2015139 Giorgos Margaritis CSCW
 popularity	3
+δημοτικότητα 3
+// 2015139 Giorgos Margaritis CSCW
 positive	2
 positively	2
 possessive	-2
@@ -2382,12 +2818,16 @@ poverty	-1
 powerful	2
 powerless	-2
 praise	3
+έπαινος 3
+// 2015139 Giorgos Margaritis CSCW
 praised	3
 praises	3
 praising	3
 pray	1
 praying	1
 prays	1
+προσεύχομαι 1
+//Giwrgos Papakwnstantinoy P2013137 cscw
 prblm	-2
 prblms	-2
 predatory	-2
@@ -2500,6 +2940,8 @@ rebels	-2
 recession	-2
 reckless	-2
 recognition	2
+αναγνώριση 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 recommend	2
 recommended	2
 recommends	2
@@ -2600,11 +3042,24 @@ rich	2
 richly	2
 ridiculous	-3
 rig	-1
+νοθεία
+// 2015050 Ioannis Megalios CSCW
 rigged	-1
+νοθευμένος -1
+// 2015050 Ioannis Megalios CSCW
 right direction	3
+σωστή κατεύθυνση 3
+// 2015050 Ioannis Megalios CSCW
 righteousness	2
+νομιμότητα 2
+δικαιοσύνη 2
+// 2015050 Ioannis Megalios CSCW
 rightful	2
+νόμιμος 2
+// 2015050 Ioannis Megalios CSCW
 rightfully	2
+νόμιμα 2
+// 2015050 Ioannis Megalios CSCW
 rigorous	3
 rigorously	3
 riot	-2
@@ -2620,6 +3075,8 @@ robber	-2
 robed	-2
 robing	-2
 robs	-2
+λήστεψα -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 robust	2
 rofl	4
 roflcopter	4
@@ -2688,6 +3145,8 @@ scumbag	-4
 seamless	2
 seamlessly	2
 secure	2
+ασφαλής 2
+// 2015139 Giorgos Margaritis CSCW
 secured	2
 secures	2
 sedition	-2
@@ -2698,6 +3157,9 @@ self-confident	2
 self-contradictory	-2
 self-deluded	-2
 selfish	-3
+εγωιστής -3
+εγωίστρια -3
+// 2015139 Giorgos Margaritis CSCW
 selfishness	-3
 sentence	-2
 sentenced	-2
@@ -2771,10 +3233,16 @@ slicker	2
 slickest	2
 slip	-1
 sloppy	-2
+τσαπατσούλικος -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 sluggish	-2
 slumping	-1
 slut	-5
 smart	1
+έξυπνος 1
+έξυπνη 1
+έξυπνο 1
+// 2015139 Giorgos Margaritis CSCW
 smarter	2
 smartest	2
 smear	-2
@@ -2783,6 +3251,8 @@ smiled	2
 smiles	2
 smiling	2
 smog	-2
+αιθαλομίχλη -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 smuggle	-2
 smuggled	-2
 smuggling	-2
@@ -2796,6 +3266,8 @@ snub	-2
 snubbed	-2
 snubbing	-2
 snubs	-2
+αγνοώ -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 sobering	1
 solemn	-1
 solid	2
@@ -2805,8 +3277,14 @@ solidifies	2
 solidify	2
 solidifying	2
 solution	1
+λύση 1
+// 2015139 Giorgos Margaritis CSCW
 solutions	1
+λύσεις 1
+// 2015139 Giorgos Margaritis CSCW
 solve	1
+λύνω 1
+// 2015139 Giorgos Margaritis CSCW
 solved	1
 solves	1
 solving	1
@@ -2875,6 +3353,8 @@ stimulates	1
 stimulating	2
 stingy	-2
 stink	-2
+βρωμάω -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 stinked	-2
 stinker	-2
 stinking	-2
@@ -2930,6 +3410,8 @@ succeeded	3
 succeeding	3
 succeeds	3
 success	2
+επιτυχία 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 successful	3
 successfully	3
 suck	-3
@@ -2946,6 +3428,8 @@ suffering	-2
 suffers	-2
 suicidal	-2
 suicide	-2
+αυτοκτονία -2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 suicides	-2
 suing	-2
 suitable	2
@@ -2958,8 +3442,12 @@ super	3
 superb	5
 superior	2
 support	2
+υποστηρίζω 2
+// 2015139 Giorgos Margaritis CSCW
 supported	2
 supporter	1
+υποστηρικτής 1
+// 2015139 Giorgos Margaritis CSCW
 supporters	1
 supporting	1
 supportive	2
@@ -2982,6 +3470,10 @@ swear	-2
 swearing	-2
 swears	-2
 sweet	2
+γλυκός 2
+γλυκιά 2
+γλυκό 2
+// 2015139 Giorgos Margaritis CSCW
 sweeter	3
 sweetest	3
 swift	2
@@ -2994,6 +3486,8 @@ sympathy	2
 taint	-2
 tainted	-2
 talent	2
+ταλέντο 2
+//Giwrgos Papakwnstantinoy P2013137 cscw
 tard	-2
 tarnish	-2
 tarnished	-2
@@ -3009,8 +3503,14 @@ terrific	4
 terrifically	4
 terrified	-3
 terror	-3
+τρόμος -3
+// 2015139 Giorgos Margaritis CSCW
 terrorist	-2
+τρομοκράτης -2
+// 2015139 Giorgos Margaritis CSCW
 terrorists	-2
+τρομοκράτες -2
+// 2015139 Giorgos Margaritis CSCW
 terrorize	-3
 terrorized	-3
 terrorizes	-3
@@ -3042,6 +3542,8 @@ top	2
 tops	2
 torn	-2
 torture	-4
+βασανιστήριο -4
+// 2015139 Giorgos Margaritis CSCW
 tortured	-4
 tortures	-4
 torturing	-4
@@ -3052,6 +3554,8 @@ touted	-2
 touting	-2
 touts	-2
 toxic	-3
+τοξικός -3
+//Giwrgos Papakwnstantinoy P2013137 cscw
 tragedies	-2
 tragedy	-2
 tragic	-2
@@ -3064,9 +3568,13 @@ trap	-1
 trapped	-2
 traps	-1
 trauma	-3
+τραύμα -3
+// 2015139 Giorgos Margaritis CSCW
 traumatic	-3
 travesty	-2
 treason	-3
+προδοσία -3
+// 2015139 Giorgos Margaritis CSCW
 treasonous	-3
 treasure	2
 treasures	2
@@ -3111,6 +3619,8 @@ unavailing	-2
 unaware	-2
 unbearable	-2
 unbelievable	-1
+απίστευτο -1
+// 2015139 Giorgos Margaritis CSCW
 unbelieving	-1
 unbiased	2
 uncertain	-1
@@ -3121,6 +3631,9 @@ unconfirmed	-1
 unconvinced	-1
 uncredited	-1
 undecided	-1
+αναποφάσιστος -1
+αναποφάσιστη -1
+// 2015139 Giorgos Margaritis CSCW
 undercooked	-2
 underestimate	-1
 underestimated	-1
@@ -3138,12 +3651,19 @@ undeserving	-2
 undesirable	-2
 uneasy	-2
 unemployed	-1
+άνεργος -1
+άνεργη -1
+// 2015139 Giorgos Margaritis CSCW
 unemployment	-2
+ανεργία -2
+// 2015139 Giorgos Margaritis CSCW
 unequal	-1
 unequaled	2
 unethical	-2
 uneventful	-2
 unfair	-2
+άδικο -2
+// 2015139 Giorgos Margaritis CSCW
 unfavorable	-2
 unfit	-2
 unfitted	-2
@@ -3357,6 +3877,9 @@ wrathful	-3
 wreck	-2
 wrenching	-2
 wrong	-2
+λανθασμένος -2
+λανθασμένη -2
+// 2015139 Giorgos Margaritis CSCW
 wrongdoing	-2
 wrongdoings	-2
 wronged	-2
@@ -3380,3 +3903,99 @@ yummy	3
 zealot	-2
 zealots	-2
 zealous	2
+
+// 
+
+tarnishes	-2 
+ξεθωριάσματα -2 
+\\cscw Ορεστης Καπλανης Π2013139
+tears	-2
+δάκρυα -2
+\\cscw Ορεστης Καπλανης Π2013139
+tender	2
+τρυφερός 2
+\\cscw Ορεστης Καπλανης Π2013139
+tenderness	2
+τρυφερότητα 2
+\\cscw Ορεστης Καπλανης Π2013139
+tense	-2
+τεντωμένος -2
+\\cscw Ορεστης Καπλανης Π2013139
+tension	-1
+τάση -1
+\\cscw Ορεστης Καπλανης Π2013139
+terrible	-3
+απαίσιο -3
+\\cscw Ορεστης Καπλανης Π2013139
+terribly	-3
+απαίσια -3
+\\cscw Ορεστης Καπλανης Π2013139
+terrific	4
+υπέροχος 4
+\\cscw Ορεστης Καπλανης Π2013139
+terrifically	4
+υπέροχα 4
+\\cscw Ορεστης Καπλανης Π2013139
+terrified	-3
+τρομαγμένος -3
+\\cscw Ορεστης Καπλανης Π2013139
+terror	-3
+τρόμος -3
+\\cscw Ορεστης Καπλανης Π2013139
+terrorist	-2
+τρομοκράτης -2
+\\cscw Ορεστης Καπλανης Π2013139
+terrorists	-2
+τρομοκράτες -2
+\\cscw Ορεστης Καπλανης Π2013139
+terrorize	-3
+τρομοκρατώ -3
+\\cscw Ορεστης Καπλανης Π2013139
+terrorized	-3
+τρομοκρατημένος -3
+\\cscw Ορεστης Καπλανης Π2013139
+terrorizes	-3
+τρομοκρατίες -3
+\\cscw Ορεστης Καπλανης Π2013139
+thank	2
+ευχαριστώ 2
+\\cscw Ορεστης Καπλανης Π2013139
+thankful	2
+ευγνώμων 2
+\\cscw Ορεστης Καπλανης Π2013139
+thanks	2
+ευχαριστώ 2
+\\cscw Ορεστης Καπλανης Π2013139
+thorny	-2
+αγκαθωτός -2
+\\cscw Ορεστης Καπλανης Π2013139
+thoughtful	2
+σκεπτικός 2
+\\cscw Ορεστης Καπλανης Π2013139
+thoughtless	-2
+απερίσκεπτος -2
+\\cscw Ορεστης Καπλανης Π2013139
+threat	-2
+απειλή -2
+\\cscw Ορεστης Καπλανης Π2013139
+threaten	-2
+απειλώ -2
+\\cscw Ορεστης Καπλανης Π2013139
+threatened	-2
+απειλημμένος -2
+\\cscw Ορεστης Καπλανης Π2013139
+threatening	-2
+απειλητικός -2
+\\cscw Ορεστης Καπλανης Π2013139
+threatens	-2
+απειλεί -2
+\\cscw Ορεστης Καπλανης Π2013139
+threats	-2
+απειλές -2
+\\cscw Ορεστης Καπλανης Π2013139
+thrilled	5
+ενθουσιασμένος 5
+\\cscw Ορεστης Καπλανης Π2013139
+thwart	-2
+αντικρούω -2
+\\cscw Ορεστης Καπλανης Π2013139
