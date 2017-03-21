@@ -3797,54 +3797,146 @@ vexing	-2
 vibrant	3
 vicious	-2
 victim	-3
+Θύμα -3
+// 2014127 Magdalini Varvouzou SW
 victimization	-3
+εξαπάτηση -3
+// 2014127 Magdalini Varvouzou SW       
 victimize	-3
+θυσιάζω -3
+// 2014127 Magdalini Varvouzou SW 
 victimized	-3
+θύματα -3
+// 2014127 Magdalini Varvouzou sw
 victimizes	-3
+Θυσιάζει -3
+// 2014127 Magdalini Varvouzou SW
 victimizing	-3
+θυματοποιητική -3
+// 2014127 Magdalini Varvouzou SW
 victims	-3
+Θύματα -3
+// 2014127 Magdalini Varvouzou SW
 victor	3
+νικητής 3
+// 2014127 Magdalini Varvouzou SW
 victors	3
+νικητές 3
+// 2014127 Magdalini Varvouzou SW
 victory	3
+νίκη 3
+// 2014127 Magdalini Varvouzou SW
 victories	3
+νίκες 3
+// 2014127 Magdalini Varvouzou SW
 vigilant	3
+προσεχτικός 3
+// 2014127 Magdalini Varvouzou SW
 vigor	3
+σθένος 3
+// 2014127 Magdalini Varvouzou SW
 vile	-3
+αχρείος -3
+// 2014127 Magdalini Varvouzou SW
 vindicate	2
+διεκδικώ 2
+// 2014127 Magdalini Varvouzou SW
 vindicated	2
+δικαιώθηκε 2
+// 2014127 Magdalini Varvouzou SW
 vindicates	2
+δικαιώνει 2
+// 2014127 Magdalini Varvouzou SW
 vindicating	2
+δικαιώνοντας 2
+// 2014127 Magdalini Varvouzou SW
 violate	-2
+παραβιάζω -2
+// 2014127 Magdalini Varvouzou SW
 violated	-2
-violates	-2
+παραβιάζονται -2
+// 2014127 Magdalini Varvouzou SW
+violates	-2 
+παραβιάζει -2
+// 2014127 Magdalini Varvouzou SW
 violating	-2
+παραβιάζοντας -2
+// 2014127 Magdalini Varvouzou SW
 violation	-2
+παράβαση -2
+// 2014127 Magdalini Varvouzou SW
 violations	-2
+παραβιάσεις -2
+// 2014127 Magdalini Varvouzou SW
 violence	-3
+βία -3
+// 2014127 Magdalini Varvouzou SW
 violence-related	-3
+βία-σχετίζεται -3 
+// 2014127 Magdalini Varvouzou SW
 violent	-3
+βίαιος -3
+// 2014127 Magdalini Varvouzou SW
 violently	-3
+βιαίως -3
+// 2014127 Magdalini Varvouzou SW
 virtuous	2
+ενάρετος 2
+// 2014127 Magdalini Varvouzou SW
 virulent	-2
+δηλητηριώδης -2
+// 2014127 Magdalini Varvouzou SW
 vision	1
+όραμα 1
 // GIANNIS AGGELIS 2015006
 visionary	3
 ονειροπόλος 3
-
+// 2014127 Magdalini Varvouzou SW
+visionary	3
+ονειροπόλος 3
+// 2014127 Magdalini Varvouzou SW
 visioning	1
+οραματίζομαι 1
+// 2014127 Magdalini Varvouzou SW
 visions	1
+οράματα 1
+// 2014127 Magdalini Varvouzou SW
 vitality	3
+ζωτικότητα 3 
+// 2014127 Magdalini Varvouzou SW
 vitamin	1
+βιταμίνη 1
+// 2014127 Magdalini Varvouzou SW
 vitriolic	-3
+καυστικός -3
+// 2014127 Magdalini Varvouzou SW
 vivacious	3
+ζωηρός 3
+// 2014127 Magdalini Varvouzou SW
 vividly	2
+ζωηρά 2
+// 2014127 Magdalini Varvouzou SW
 vociferous	-1
+κραυγαλέος -1
+// 2014127 Magdalini Varvouzou SW
 vomit	-3
+ξερνώ -3
+// 2014127 Magdalini Varvouzou SW
 vomited	-3
-vomiting	-3
+ξερνώ -3
+// 2014127 Magdalini Varvouzou SW
+vomiting	-3 
+εμετός -3
+// 2014127 Magdalini Varvouzou SW
 vomits	-3
+εμετών -3
+// 2014127 Magdalini Varvouzou SW
 vulnerability	-2
+τρωτό -2
+// 2014127 Magdalini Varvouzou SW
 vulnerable	-2
+ευάλωτα -2
+// 2014127 Magdalini Varvouzou SW
 walkout	-2
 walkouts	-2
 wanker	-3
