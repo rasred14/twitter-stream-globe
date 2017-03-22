@@ -9,7 +9,11 @@ abhorred	-3
 abhorrent	-3
 abhors	-3
 abilities	2
+
+// GIANNIS AGGELIS 2015006
 ability	2
+ικανότητα 2
+
 aboard	1
 aborted	-1
 aborts	-1
@@ -27,20 +31,35 @@ abusing	-3
 καταχρώμαι -3
 // 2015139 Giorgos Margaritis CSCW
 abusive	-3
+
+// GIANNIS AGGELIS 2015006
+
 καταχρηστικός -3
 καταχρηστική -3
 // 2015139 Giorgos Margaritis CSCW
+
 accept	1
+αποδέχομαι 1
+
 acceptable	1
 acceptance	1
+
+// GIANNIS AGGELIS 2015006
 accepted	1
+αποδεκτό 1
+
+
 accepting	1
 accepts	1
 accessible	1
 accident	-2
 accidental	-2
 accidentally	-2
+
+// GIANNIS AGGELIS 2015006
 accidents	-2
+ατυχήματα -2
+
 acclaim	2
 acclaimed	2
 accolade	2
@@ -101,7 +120,11 @@ afflicted	-1
 affordable	2
 affronted	-1
 aficionados	2
+
+// GIANNIS AGGELIS 2015006
 afraid	-2
+φοβισμένος -2
+
 aggravate	-2
 aggravated	-2
 aggravates	-2
@@ -123,7 +146,11 @@ agonizing	-3
 agree	1
 agreeable	2
 agreed	1
+
+// GIANNIS AGGELIS 2015006
 agreement	1
+συμφωνία 1
+
 agrees	1
 alarm	-2
 alarmed	-2
@@ -132,13 +159,21 @@ alarmists	-2
 alas	-1
 alert	-1
 alienation	-2
+
+// GIANNIS AGGELIS 2015006
 alive	1
+ζωντανός 1
+
 allegation	-2
 allegations	-2
 allergic	-2
 allow	1
 ally	2
+
+// GIANNIS AGGELIS 2015006
 alone	-2
+μόνος -2
+
 altruistic	2
 amaze	2
 amazed	2
@@ -154,7 +189,11 @@ amusements	3
 anger	-3
 angered	-3
 angers	-3
+
+// GIANNIS AGGELIS 2015006
 angry	-3
+θυμωμένος -3
+
 anguish	-3
 anguished	-3
 animosity	-2
@@ -272,7 +311,10 @@ axed	-1
 backed	1
 backing	2
 backs	1
+// GIANNIS AGGELIS 2015006
 bad	-3
+κακό -3
+
 bad luck	-2
 badass	-3
 badly	-3
@@ -295,7 +337,11 @@ bargain	2
 barrier	-2
 bastard	-5
 bastards	-5
+
+// GIANNIS AGGELIS 2015006
 battle	-1
+μάχη -1
+
 battled	-1
 battles	-1
 battling	-2
@@ -305,7 +351,11 @@ beating	-1
 beauties	3
 beautiful	3
 beautifully	3
+
+// GIANNIS AGGELIS 2015006
 beautify	3
+καλλωπίζω 3
+
 beauty	3
 befit	2
 befitting	2
@@ -395,7 +445,11 @@ boycotted	-2
 boycotting	-2
 boycotts	-2
 brainwashing	-3
+
+// GIANNIS AGGELIS 2015006
 brave	2
+γενναίος 2
+
 braveness	2
 bravery	2
 bravura	3
@@ -445,7 +499,11 @@ cancelling	-1
 cancels	-1
 cancer	-1
 capabilities	1
+
+// GIANNIS AGGELIS 2015006
 capability	1
+δυνατότητα 1
+
 capable	1
 captivated	3
 care	2
@@ -497,7 +555,11 @@ chastise	-3
 chastised	-3
 chastises	-3
 chastising	-3
+
+// GIANNIS AGGELIS 2015006
 cheat	-3
+απάτη -3
+
 cheated	-3
 cheater	-3
 cheaters	-3
@@ -526,13 +588,25 @@ choke	-2
 choked	-2
 chokes	-2
 choking	-2
+
+// GIANNIS AGGELIS 2015006
 clarifies	2
+διασαφηνίζει 2
+// GIANNIS AGGELIS 2015006
 clarity	2
+σαφήνεια 2
+// GIANNIS AGGELIS 2015006
 clash	-2
+σύγκρουση -2
+
 classy	3
 clean	2
 cleaner	2
+
+// GIANNIS AGGELIS 2015006
 clear	1
+Σαφή 1
+
 cleared	1
 clearly	1
 clears	1
@@ -725,7 +799,11 @@ cutting	-1
 cynic	-2
 cynical	-2
 cynicism	-2
+
+// GIANNIS AGGELIS 2015006
 damage	-3
+ζημιά -3
+
 damaged	-3
 damages	-3
 damaging	-3
@@ -734,7 +812,11 @@ damn cute	3
 damn good	4
 damned	-4
 damnit	-4
+
+// GIANNIS AGGELIS 2015006
 danger	-2
+κίνδυνος -2
+
 dangerous	-2
 dangerously	-2
 daredevil	2
@@ -1093,7 +1175,11 @@ eager	2
 //Giwrgos Papakwnstantinoy P2013137 cscw
 earnest	2
 ease	2
+
+// GIANNIS AGGELIS 2015006
 easy	1
+εύκολο 1
+
 ecstatic	4
 eerie	-2
 eery	-2
@@ -1130,13 +1216,21 @@ endorsed	2
 endorsement	2
 endorses	2
 enemies	-2
+
+// GIANNIS AGGELIS 2015006
 enemy	-2
+
+εχθρός -2
 energetic	2
 engage	1
 engages	1
 engrossed	1
 engrossing	3
+
+// GIANNIS AGGELIS 2015006
 enjoy	2
+απολαμβάνω 2
+
 enjoyable	2
 enjoyed	2
 enjoying	2
@@ -1169,8 +1263,12 @@ envious	-2
 environment-friendly	2
 envy	-1
 envying	-1
-erroneous	-2
+erroneou
+
+// GIANNIS AGGELIS 2015006
 error	-2
+λάθος -2
+
 errors	-2
 escape	-1
 escapes	-1
@@ -1207,7 +1305,11 @@ excellent	3
 excite	3
 excited	3
 excitement	3
+
+// GIANNIS AGGELIS 2015006
 exciting	3
+συναρπαστικός 3
+
 exclude	-1
 excluded	-2
 exclusion	-1
@@ -1257,7 +1359,11 @@ faggots	-3
 fail	-2
 failed	-2
 failing	-2
+
+// GIANNIS AGGELIS 2015006
 fails	-2
+αποτυγχάνει -2
+
 failure	-2
 failures	-2
 fainthearted	-2
@@ -3534,7 +3640,11 @@ troubles	-2
 troubling	-2
 true	2
 trust	1
+
+// GIANNIS AGGELIS 2015006
 trusted	2
+έμπιστος 2
+
 trusts	1
 tumor	-2
 twat	-5
@@ -3665,7 +3775,11 @@ upsets	-2
 upsetting	-2
 uptight	-2
 urgent	-1
+
+// GIANNIS AGGELIS 2015006
 useful	2
+χρήσιμος 2
+
 usefulness	2
 useless	-2
 uselessness	-2
@@ -3774,6 +3888,9 @@ virulent	-2
 // 2014127 Magdalini Varvouzou SW
 vision	1
 όραμα 1
+// GIANNIS AGGELIS 2015006
+visionary	3
+ονειροπόλος 3
 // 2014127 Magdalini Varvouzou SW
 visionary	3
 ονειροπόλος 3
@@ -3927,7 +4044,11 @@ xoxoxoxo	4
 yeah	1
 yearning	1
 yeees	2
+
+// GIANNIS AGGELIS 2015006
 yes	1
+ναί 1
+
 youthful	2
 yucky	-2
 yummy	3
