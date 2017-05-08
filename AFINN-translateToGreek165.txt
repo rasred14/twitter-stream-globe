@@ -1,13 +1,48 @@
 abandon	-2
+εγκαταλείπω -2
+αφήνω -2
+παραιτώ -2
+παρατώ  -2
+αποχωρώ -2
+παραδίδομαι -2
+// 2014170 Alexandros Kalavitis
 abandoned	-2
+εγκαταλειμμένος -2
+εγκαταλελλειμένος -2
+έκλυτος -2
+// 2014170 Alexandros Kalavitis
 abandons	-2
+eγκαταλείπει  -2
+εγκαταλείπω -2
+αφήνω -2
+παραιτώ -2
+παρατώ  -2
+αποχωρώ -2
+παραδίδομαι -2
+// 2014170 Alexandros Kalavitis
 abducted	-2
+απαχθεί -2
+απάγω -2
+απαγαγώ -2
+// 2014170 Alexandros Kalavitis
 abduction	-2
+απαγωγή -2
+// 2014170 Alexandros Kalavitis
 abductions	-2
+απαγωγές  -2
+// 2014170 Alexandros Kalavitis
 abhor	-3
+απεχθάνομαι -3
+// 2014170 Alexandros Kalavitis
 abhorred	-3
+αποτρόπαιες -3
+// 2014170 Alexandros Kalavitis
 abhorrent	-3
+απεχθής -3
+// 2014170 Alexandros Kalavitis
 abhors	-3
+αποτρόπαιες -3
+// 2014170 Alexandros Kalavitis
 abilities	2
 ability	2
 aboard	1
