@@ -3815,6 +3815,7 @@ uneventful	-2
 unfair	-2
 άδικο -2
 // 2015139 Giorgos Margaritis CSCW
+// 2010040 Aristotelis Roussis CSCW
 unfavorable	-2
 unfit	-2
 unfitted	-2
@@ -3855,6 +3856,7 @@ unsafe	-2
 unsatisfied	-2
 unscientific	-2
 unsecured	-2
+// 2010040 Aristotelis Roussis CSCW
 unselfish	2
 unsettled	-1
 unsold	-1
