@@ -3889,7 +3889,7 @@ unrelenting	-2
 unresearched	-2
 ανεπανάληπτο
 unsafe	-2
-επικίνδυνος
+επικίνδυνος, επιβλαβές
 unsatisfied	-2
 ανικανοποίητος
 unscientific	-2
