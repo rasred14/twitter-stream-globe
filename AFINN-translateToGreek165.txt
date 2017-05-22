@@ -3815,47 +3815,90 @@ uneventful	-2
 unfair	-2
 άδικο -2
 // 2015139 Giorgos Margaritis CSCW
+// 2010040 Roussis Aristotelis CSCW
 unfavorable	-2
+δυσμενής
 unfit	-2
+ανίκανος, ακατάλληλος
 unfitted	-2
+ακατάλληλα
 unfocused	-2
-unforgivable	-3
+αδιάφορη
+unforgivable -3
+ασυγχώρητος
 unforgiving	-2
+ανελέητος
 unfulfilled	-2
+ανεκπλήρωτος
 unfunny	-2
+δεν είναι αστείο, δεν έχει πλάκα
 ungenerous	-2
+φειδωλός
 ungrateful	-3
+αχάριστος
 unhappy	-2
+δυστυχής 
 unhappiness	-2
+δυστυχία
 unhealthy	-2
+ανθυγιεινός
 unhygienic	-2
+ανθυγιεινό
 unified	1
+ενοποιώ, ενώνω
 unimaginative	-2
+κοινότυπος
 unimpressed	-2
+χωρίς εντύπωση
 uninspired	-2
+ανέμπνευστος
 unintelligent	-2
+χαζός
 unintentional	-2
+ακούσιος
 uninvolving	-2
+αμέτοχος
 united	1
+ενωμένος
 unjust	-2
+άδικος
 unlikely	-1
+απίθανος
 unlovable	-2
+απωθητικός
 unloved	-2
+που δεν λαμβάνει αγάπη
 unmatched	1
+αταίριαστος, ασύγκριτος
 unmotivated	-2
+χωρίς κίνητρο
 unoriginal	-2
+τετριμμένος
 unparliamentary	-2
+αντικοινοβουλευτικός
 unpleasant	-2
+δυσάρεστος
 unpleasantness	-2
+δυσάρεστη εμπειρία
 unprofessional	-2
+αντιεπαγγελματικός
 unravel	1
-unreleting	-2
+αποκαλύπτω, ξετυλίγω
+unrelenting	-2
+αδυσώπητος 
 unresearched	-2
+ανεπανάληπτο
 unsafe	-2
+επικίνδυνος
 unsatisfied	-2
+ανικανοποίητος
 unscientific	-2
+μη επιστημονικός
 unsecured	-2
+μη ασφαλισμένο
 unselfish	2
+ανιδιοτελής
+// 2010040 Roussis Aristotelis CSCW
 unsettled	-1
 unsold	-1
 unsophisticated	-2
