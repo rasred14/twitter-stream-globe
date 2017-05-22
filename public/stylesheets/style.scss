@@ -3,8 +3,10 @@
 
 $twitter-color: #55ACEE;
 $panel-color: #222;
-$color-negative: #FF0000;
-$color-positive: #DDDD00;
+$color-negative: #EE1F34;
+$color-halfnegative: #FF9500
+$color-halfpositive: #008EFF
+$color-positive: #0ECD29;
 $color-neutral: #444;
 $color-text: #CCC;
 $panel-border: 5px solid #333;
@@ -171,7 +173,12 @@ a {
 #sentiment-value.negative {
 	color: $color-negative;
 }
-
+#sentiment-value.halfnegative {
+	color: $color-halfnegative;
+}
+#sentiment-value.halfpositive {
+	color: $color-halfpositive;
+}
 #sentiment-value.positive {
 	color: $color-positive;
 }
@@ -219,7 +226,12 @@ a {
 	&.negative {
 		border-color: $color-negative;
 	}
-
+	&.halfnegative {
+		border-color: $color-halfnegative;
+	}
+	&.halfpositive {
+		border-color: $color-halfpositive;
+	}
 	&.positive {
 		border-color: $color-positive;
 	}
