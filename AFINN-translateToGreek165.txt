@@ -3853,7 +3853,7 @@ unimpressed	-2
 uninspired	-2
 ανέμπνευστος
 unintelligent	-2
-χαζός
+χαζός, βλάκας
 unintentional	-2
 ακούσιος
 uninvolving	-2
