@@ -3823,7 +3823,7 @@ unfit	-2
 unfitted	-2
 ακατάλληλα
 unfocused	-2
-αδιάφορη
+αδιάφορος, 
 unforgivable -3
 ασυγχώρητος
 unforgiving	-2
