@@ -92,15 +92,16 @@ app.controller('TweetHud', function($scope, $resource, $timeout, $rootScope, $ti
 		
 		var state = 'neutral';
 
-  	if (score < 0) {
+  		if (score < 0) {
   		state = 'negative';
-  	}
-	else if (score > 2) {
+  		}
+	
+		else if (score > 0) {
   		state = 'positive';
-  	}
+  		}
 
 		return state;
-	}
+		}
 
   /**
    * GET request to stop stream on the server
